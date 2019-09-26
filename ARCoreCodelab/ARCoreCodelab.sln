@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions", "Google.XR.ARCoreExtensions.csproj", "{9C156E0F-5158-2006-EC14-0D747A1E1E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.ARCoreExtensions.Editor", "Google.XR.ARCoreExtensions.Editor.csproj", "{7D864A0D-D789-5096-74D5-5486C59B9F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C156E0F-5158-2006-EC14-0D747A1E1E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C156E0F-5158-2006-EC14-0D747A1E1E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C156E0F-5158-2006-EC14-0D747A1E1E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C156E0F-5158-2006-EC14-0D747A1E1E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D864A0D-D789-5096-74D5-5486C59B9F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D864A0D-D789-5096-74D5-5486C59B9F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D864A0D-D789-5096-74D5-5486C59B9F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D864A0D-D789-5096-74D5-5486C59B9F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
